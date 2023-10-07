@@ -1,5 +1,5 @@
 # 💫 About Me:
-😁 I' m currently working on AWS-backend and cdk deploy stacks<br>🏃🏼 I' m currently learning React Prac <br>😈 I' m looking for my first formal job<br>🦉 I' d like to learn tech in deep night alone
+😁 I' m currently working on React and Next.js<br>🏃🏼 I' m currently learning prisma, vercel <br>😈 I' m looking for my first formal job<br>🦉 I' d like to learn tech in deep night alone
 
 
 # 💻 Tech Stack:
